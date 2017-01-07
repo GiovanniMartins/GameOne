@@ -19,17 +19,18 @@ Text editor
 
 
 ##Best practices
-	
-[ ]The free edition of Unity limits asset serialization to binary mode, which means no merging of scenes. So, because of that:
 
-[ ]Use prefabs for storing game objects rather than scene files.
+```
+The free edition of Unity limits asset serialization to binary mode, which means no merging of scenes. So, because of that:
 
-[ ]Only have one person working on a particular scene file at a time
+Use prefabs for storing game objects rather than scene files.
 
-[ ]Only bring completed versions of audios and assets into the repository and Unity project
+Only have one person working on a particular scene file at a time
 
-[ ]Use branching for different features/versions of the game
+Only bring completed versions of audios and assets into the repository and Unity project
 
+Use branching for different features/versions of the game
+```
 
 
 
