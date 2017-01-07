@@ -22,7 +22,7 @@ Text editor
 ###HOW TO SET THE ENVIRONMENT FOR A ANDROID GAME IN UNITY
 ------------------------------------------------------
 
-1. INSTALL JAVA
+####1. INSTALL JAVA
 
 	Go to the java site and download the most recent JDK
 
@@ -33,7 +33,7 @@ Text editor
 
 
 
-2. INSTALL THE ANDROID SDK TOOLS
+####2. INSTALL THE ANDROID SDK TOOLS
 
 	Go to the android developer site
 
@@ -85,7 +85,7 @@ From the “Asset Serialization” drop down, choose “Force Text”
 
 
 
-1. PREPARING YOUT UNITY PROJECT FOR BUILDING TO ANDROID
+####1. PREPARING YOUT UNITY PROJECT FOR BUILDING TO ANDROID
 
 	Within Unity, open the Build Settings from the top menu (File > Build Settings).
 	
@@ -103,7 +103,7 @@ From the “Asset Serialization” drop down, choose “Force Text”
 
 
 
-2. PREPARING YOUR ANDROID DEVICE
+####2. PREPARING YOUR ANDROID DEVICE
 
 	On your Android device, navigate to Settings > About phone or Settings > About tablet.
 	
@@ -114,7 +114,7 @@ From the “Asset Serialization” drop down, choose “Force Text”
 
 
 
-3. BUILDING AN ANDROID PROJECT USING UNITY
+####3. BUILDING AN ANDROID PROJECT USING UNITY
 
 	Connect your Android device to your computer using a USB cable.
 
@@ -135,7 +135,7 @@ From the “Asset Serialization” drop down, choose “Force Text”
 
 
 
-4. TESTING THE GAME ON YOUT ANDROID DEVICE
+####4. TESTING THE GAME ON YOUT ANDROID DEVICE
 
 	With the game still running on your device, return to your computer.
 
