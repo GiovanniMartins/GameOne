@@ -23,6 +23,7 @@ Text editor
 ------------------------------------------------------
 
 1. INSTALL JAVA
+
 	Go to the java site and download the most recent JDK
 
 	Download e run the installer
@@ -33,6 +34,7 @@ Text editor
 
 
 2. INSTALL THE ANDROID SDK TOOLS
+
 	Go to the android developer site
 
 	Download the Android SDK Tools ('the command line tools', NOT the full Android Studio)
@@ -84,6 +86,7 @@ From the “Asset Serialization” drop down, choose “Force Text”
 
 
 1. PREPARING YOUT UNITY PROJECT FOR BUILDING TO ANDROID
+
 	Within Unity, open the Build Settings from the top menu (File > Build Settings).
 	
 	Highlight Android from the list of platforms on the left and choose Switch Platform at the bottom of the window.
@@ -101,6 +104,7 @@ From the “Asset Serialization” drop down, choose “Force Text”
 
 
 2. PREPARING YOUR ANDROID DEVICE
+
 	On your Android device, navigate to Settings > About phone or Settings > About tablet.
 	
 	Scroll to the bottom and then tap Build number seven times. A popup will appear, confirming that you are now a developer.
@@ -111,6 +115,7 @@ From the “Asset Serialization” drop down, choose “Force Text”
 
 
 3. BUILDING AN ANDROID PROJECT USING UNITY
+
 	Connect your Android device to your computer using a USB cable.
 
 	You may see a prompt asking you to confirm that you wish to enable USB debugging on the device. If so, click OK.
@@ -131,6 +136,7 @@ From the “Asset Serialization” drop down, choose “Force Text”
 
 
 4. TESTING THE GAME ON YOUT ANDROID DEVICE
+
 	With the game still running on your device, return to your computer.
 
 	Navigate to the directory containing the Android SDK Tools.
