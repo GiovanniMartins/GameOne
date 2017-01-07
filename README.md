@@ -14,6 +14,7 @@ Windows OS
 Unity 3D version > 5.5 
 Android SDK
 Text editor
+Git
 ```
 
 
@@ -30,6 +31,18 @@ Only have one person working on a particular scene file at a time
 Only bring completed versions of audios and assets into the repository and Unity project
 
 Use branching for different features/versions of the game
+```
+
+
+
+###Cloning the project
+
+If you have all the requirements you're read to cloning the project and running on your local machine:
+
+```
+Change the current working directory to the location where you want the cloned directory to be made
+Open a gitBash or the cmd
+Type: git clone https://github.com/GiovanniMartins/GameOne.git
 ```
 
 
@@ -75,6 +88,8 @@ Use branching for different features/versions of the game
 -----------------------------------------
 ###HOW TO SETUP GITHUB WITH AN UNITY PROJECT
 -----------------------------------------
+
+(ONLY IF YOU'RE GOING TO CREATE A NEW PROJECT)
 
 Create a New Repository window, select the owner of the repo (this will probably just be you)
 
