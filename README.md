@@ -49,9 +49,9 @@ Type: git clone https://github.com/GiovanniMartins/GameOne.git
 
 ## Installing
 
-------------------------------------------------------
+
 ###HOW TO SET THE ENVIRONMENT FOR A ANDROID GAME IN UNITY
-------------------------------------------------------
+
 
 ####1. INSTALL JAVA
 
@@ -85,9 +85,9 @@ Type: git clone https://github.com/GiovanniMartins/GameOne.git
 
 
 
------------------------------------------
+
 ###HOW TO SETUP GITHUB WITH AN UNITY PROJECT
------------------------------------------
+
 
 (ONLY IF YOU'RE GOING TO CREATE A NEW PROJECT)
 
@@ -112,9 +112,9 @@ From the “Version Control” drop down box, choose “Visible Meta Files”.
 From the “Asset Serialization” drop down, choose “Force Text”
 
 
-------------------------------------------
+
 ###HOW TO BUILD THE GAME TO AN ANDROID DEVICE
-------------------------------------------
+
 
 
 
